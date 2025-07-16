@@ -1,0 +1,8 @@
+playwright
+streamlit
+chromadb
+sentence-transformers
+google-generativeai
+SpeechRecognition
+pyttsx3
+python-dotenv 
